@@ -9,7 +9,7 @@
       <router-link to="/about" class="block mt-4 lg:inline-block lg:mt-0 text-yellow-300 hover:text-white mr-4">About</router-link>
     </div>
     <div>
-      <a href="#" class="text-white  font-semibold inline-block text-sm px-4 py-2 leading-none border rounded shadow-lg hover:hover:shadow-yellow-300 hover:border-transparent hover:text-gray-900 hover:bg-yellow-300 mt-4 lg:mt-0">Github</a>
+      <a href="https://github.com/Umk1nus" class="text-white  font-semibold inline-block text-sm px-4 py-2 leading-none border rounded shadow-lg hover:hover:shadow-yellow-300 hover:border-transparent hover:text-gray-900 hover:bg-yellow-300 mt-4 lg:mt-0">Github</a>
     </div>
   </div>
 </nav>
