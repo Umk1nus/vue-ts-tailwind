@@ -7,3 +7,5 @@ class DataService {
     return axios.get(`${API_URL}/people/`)
   }
 }
+
+export default new DataService()
